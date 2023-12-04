@@ -28,7 +28,7 @@ Este proyecto es una aplicación de Node.js que utiliza Express.js y TypeScript.
 1. Clonar el repositorio
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/luifermartinez/prueba-tecnica-globaltask
 ```
 
 2. Instalar dependencias
